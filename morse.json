@@ -1,7 +1,19 @@
 [
-    {   "latin": "A", "morse": ".-", "unicode": "LETTER A"},
-    {   "latin": "B", "morse": "-...", "unicode": "LETTER B" },
-    {   "latin": "C", "morse": "-.-.", "unicode": "LETTER C" },
+    {   
+        "latin": "A", 
+        "morse": ".-", 
+        "unicode": "LETTER A"
+    },
+    {   
+        "latin": "B", 
+        "morse": "-...", 
+        "unicode": "LETTER B" 
+    },
+    {   
+        "latin": "C", 
+        "morse": "-.-.", 
+        "unicode": "LETTER C" 
+    },
     {
         "latin": "D",
         "morse": "-..",
