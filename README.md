@@ -5,5 +5,4 @@ Voor live demo met toelichting zie: ["Levensreddende Communicatie.ipynb"](https:
 
 Voor draaien vanaf command line: python morse.py
 
-Er wordt geen gebruik gemaakt van pypi modules. Met andere woorden er is geen requirements.txt, requirements.txt is leeg.
-
+Er wordt geen gebruik gemaakt van pypi modules. Met andere woorden er is geen requirements.txt.
