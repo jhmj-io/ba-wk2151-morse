@@ -1,0 +1,232 @@
+[
+    {
+        "latin": "A",
+        "morse": ".-",
+        "unicode": "LETTER A"
+    },
+    {
+        "latin": "B",
+        "morse": "-...",
+        "unicode": "LETTER B"
+    },
+    {
+        "latin": "C",
+        "morse": "-.-.",
+        "unicode": "LETTER C"
+    },
+    {
+        "latin": "D",
+        "morse": "-..",
+        "unicode": "LETTER D"
+    },
+    {
+        "latin": "E",
+        "morse": ".",
+        "unicode": "LETTER E"
+    },
+    {
+        "latin": "F",
+        "morse": "..-.",
+        "unicode": "LETTER F"
+    },
+    {
+        "latin": "G",
+        "morse": "--.",
+        "unicode": "LETTER G"
+    },
+    {
+        "latin": "H",
+        "morse": "....",
+        "unicode": "LETTER H"
+    },
+    {
+        "latin": "I",
+        "morse": "..",
+        "unicode": "LETTER I"
+    },
+    {
+        "latin": "J",
+        "morse": ".---",
+        "unicode": "LETTER J"
+    },
+    {
+        "latin": "K",
+        "morse": "-.-",
+        "unicode": "LETTER K"
+    },
+    {
+        "latin": "L",
+        "morse": ".-..",
+        "unicode": "LETTER L"
+    },
+    {
+        "latin": "M",
+        "morse": "--",
+        "unicode": "LETTER M"
+    },
+    {
+        "latin": "N",
+        "morse": "-.",
+        "unicode": "LETTER N"
+    },
+    {
+        "latin": "O",
+        "morse": "---",
+        "unicode": "LETTER O"
+    },
+    {
+        "latin": "P",
+        "morse": ".--.",
+        "unicode": "LETTER P"
+    },
+    {
+        "latin": "Q",
+        "morse": "--.-",
+        "unicode": "LETTER Q"
+    },
+    {
+        "latin": "R",
+        "morse": ".-.",
+        "unicode": "LETTER R"
+    },
+    {
+        "latin": "S",
+        "morse": "...",
+        "unicode": "LETTER S"
+    },
+    {
+        "latin": "T",
+        "morse": "-",
+        "unicode": "LETTER T"
+    },
+    {
+        "latin": "U",
+        "morse": "..-",
+        "unicode": "LETTER U"
+    },
+    {
+        "latin": "V",
+        "morse": "...-",
+        "unicode": "LETTER V"
+    },
+    {
+        "latin": "W",
+        "morse": ".--",
+        "unicode": "LETTER W"
+    },
+    {
+        "latin": "X",
+        "morse": "-..-",
+        "unicode": "LETTER X"
+    },
+    {
+        "latin": "Y",
+        "morse": "-.--",
+        "unicode": "LETTER Y"
+    },
+    {
+        "latin": "Z",
+        "morse": "--..",
+        "unicode": "LETTER Z"
+    },
+    {
+        "latin": "1",
+        "morse": ".----",
+        "unicode": "DIGIT ONE"
+    },
+    {
+        "latin": "2",
+        "morse": "..---",
+        "unicode": "DIGIT TWO"
+    },
+    {
+        "latin": "3",
+        "morse": "...--",
+        "unicode": "DIGIT THREE"
+    },
+    {
+        "latin": "4",
+        "morse": "....-",
+        "unicode": "DIGIT FOUR"
+    },
+    {
+        "latin": "5",
+        "morse": ".....",
+        "unicode": "DIGIT FIVE"
+    },
+    {
+        "latin": "6",
+        "morse": "-....",
+        "unicode": "DIGIT SIX"
+    },
+    {
+        "latin": "7",
+        "morse": "--...",
+        "unicode": "DIGIT SEVEN"
+    },
+    {
+        "latin": "8",
+        "morse": "---..",
+        "unicode": "DIGIT EIGHT"
+    },
+    {
+        "latin": "9",
+        "morse": "----.",
+        "unicode": "DIGIT NINE"
+    },
+    {
+        "latin": "0",
+        "morse": "-----",
+        "unicode": "DIGIT ZERO"
+    },
+    {
+        "latin": " ",
+        "morse": "-.-.-.-",
+        "unicode": "SPACE"
+    },
+    {
+        "latin": ",",
+        "morse": "--..--",
+        "unicode": "COMMA"
+    },
+    {
+        "latin": ".",
+        "morse": ".-.-.-",
+        "unicode": "FULL STOP"
+    },
+    {
+        "latin": ":",
+        "morse": "---...",
+        "unicode": "COLON"
+    },
+    {
+        "latin": ";",
+        "morse": "-.-.-.",
+        "unicode": "SEMICOLON"
+    },
+    {
+        "latin": "\"",
+        "morse": ".-..-.",
+        "unicode": "QUOTATION MARK"
+    },
+    {
+        "latin": "(",
+        "morse": "-----.",
+        "unicode": "LEFT PARENTHESIS"
+    },
+    {
+        "latin": ")",
+        "morse": ".-----",
+        "unicode": "RIGHT PARENTHESIS"
+    },
+    {
+        "latin": "'",
+        "morse": "-.--.-",
+        "unicode": "APOSTROPHE"
+    },
+    {
+        "latin": " ",
+        "morse": "-.-.-.-",
+        "unicode": "EXCLAMATION MARK"
+    }
+]
