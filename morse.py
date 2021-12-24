@@ -2,9 +2,12 @@ import json
 import unicodedata
 import re
 
+#list( filter( (lambda f: False if f[:2]=="__" or f in ["re","json","unicodedata"]    else True ), list(dir(morse) )))
+
+
 def morse_file(morsefile):
 
-    # retrieve the morse code - simple
+    # just to be suren get the simple (non extended) morse code
 
     morsefile = "morse.json"
 
@@ -14,7 +17,6 @@ def morse_file(morsefile):
 
     return json.loads(jsonContent)
      
-
 
 def morse_codes(morse, direction):
 
@@ -127,7 +129,6 @@ def messageencodedecode(messagename):
     print("-"*50)
     print(message)
 
-
     # 2 print encoded message in terminal
     morseencoded = morse_encode(message)
     print(f"\nmessage {messagename} encoded" )
@@ -152,17 +153,15 @@ def messageencodedecode(messagename):
 
 #messageoktxt = lambda m : "OK" if (m) else "NOT OK" 
 
-# messageok = messageencodedecode("noodoproep")
-# print("\nmessage is", (lambda m : "OK" if (m) else "NOT OK") (messageok) )
-# print("")
+
+if __name__ == "__main__":
+    messageok = messageencodedecode("noodoproep")
+    print("\nmessage is", (lambda m : "OK" if (m) else "NOT OK") (messageok) )
+    print("")
 
 
-# messageok = messageencodedecode("noodoproep-extended")
-# print("\nmessage is", (lambda m : "OK" if (m) else "NOT OK") (messageok) )
-# print("zie morse-extended.json voor morsecode van buitengewone letters en leestekens!")
-# print("")
-
-
-
-
+    messageok = messageencodedecode("noodoproep-extended")
+    print("\nmessage is", (lambda m : "OK" if (m) else "NOT OK") (messageok) )
+    print("\nzie morse-extended.json voor morsecode van buitengewone letters en leestekens!")
+    print("")
 
